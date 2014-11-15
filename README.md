@@ -10,10 +10,10 @@ Contributing
 It's easy...
 
 1. Create an issue
-2. In it, put...
-    * A link to the artifact or to the source of the artifact.
-    * A breif description of the artifact.
-    * A breif explenation of how you think it would be useful to educators.
+2. In it, answer...
+    * __Where__ does the artifact live (URL)?
+    * __What__ is the artifact (a brief description)?
+    * __Why__ is it useful to you?
 
 
 What to contribute?
@@ -21,41 +21,12 @@ What to contribute?
 
 There are many possible sources of interesting artifacts. Here are some:
 
-* Bug Reports
+* Bug reports
 * Requirements
 * IRCs logs
 * Mailing lists
 * Documentation (README, guides, wikis, etc)
-* Justifications/Assumptions
-* Web Content
-* Project On Ramp information
-* Relevant Literature
-
-## To find examples of Good, Bad, Ugly and then find common elements of categorization
-* Links to sources with notes about why chosen
-* Gather phase, then review phase
-* Ratings, likes, comments needed
-* Keep history of decisions, justifications
-
-## Meetings to callibrate our feelings
-* once a month initially then more often as critical mass develops
-
-## Testimonials
-* how it was used in class and what students thought
-
-## Some ideas based on this bug:
-* https://bugzilla.gnome.org/show_bug.cgi?id=737612
-** this bug has a story that builds from a very general description to very specific
-** ask students to look up terms they do not know in report (e.g., core dump)
-
-
-## Communication
-
-
-## Monthly meetings
-* the first _____ of each month
-* the last ____ of each month
-* IRC
-* freenode.net
-* Circulate emails in January to set first meeting
-Exchanged emails
+* Justifications/assumptions
+* Web content
+* Project on ramp information
+* Relevant literature
