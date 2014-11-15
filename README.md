@@ -1,7 +1,7 @@
 collaborium
 ===========
 
-The collaborium is a place for educators and developers to share artifacts from Humanitarian FOSS projects that might be useful to eductors for use in their classrooms.
+The collaborium is a place for educators and developers to share and find artifacts from Humanitarian FOSS projects that might be useful in their classrooms.
 
 
 Contributing
