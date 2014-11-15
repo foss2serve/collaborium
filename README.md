@@ -7,10 +7,10 @@ The collaborium is a place for educators and developers to share and find artifa
 Contributing
 ------------
 
-Got an artifact from an HFOSS project that you found useful for your course, and want to tell the world about it? Share it here!
+It's easy...
 
-1. Create an issue in our issue tracker.
-2. In it, put the following information:
+1. Create an issue
+2. In it, put...
     * A link to the artifact or to the source of the artifact.
     * A breif description of the artifact.
     * A breif explenation of how you think it would be useful to educators.
