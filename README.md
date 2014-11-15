@@ -1,17 +1,31 @@
 collaborium
 ===========
 
-A place to share software artifacts that eductors might be interested in.
+The collaborium is a place for educators and developers to share artifacts from Humanitarian FOSS projects that might be useful to eductors for use in their classrooms.
 
-Gather and share examples/artifacts from projects that we feel are relevant to our courses
 
-## Sources
+Contributing
+------------
+
+Got an artifact from an HFOSS project that you found useful for your course, and want to tell the world about it? Share it here!
+
+1. Create an issue in our issue tracker.
+2. In it, put the following information:
+    * A link to the artifact or to the source of the artifact.
+    * A breif description of the artifact.
+    * A breif explenation of how you think it would be useful to educators.
+
+
+What to contribute?
+-------------------
+
+There are many possible sources of interesting artifacts. Here are some:
+
 * Bug Reports
 * Requirements
-* IRCs
-* Mailing Lists
-* READMEs/Dependency Notes
-* Install instructions 
+* IRCs logs
+* Mailing lists
+* Documentation (README, guides, wikis, etc)
 * Justifications/Assumptions
 * Web Content
 * Project On Ramp information
