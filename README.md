@@ -12,6 +12,8 @@ It's easy...
     * __Where__ does the artifact live (URL)?
     * __What__ is the artifact (a brief description)?
     * __Why__ is it useful to you?
+3. Add label(s) (using the Label pulldown)
+4. Stick around and comment on [previously added issues](https://github.com/foss2serve/collaborium/issues)
 
 
 ### What to share?
